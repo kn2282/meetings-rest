@@ -1,0 +1,6 @@
+{
+    "name": "kniedzie/meetings-vue-slim",
+    "require": {
+        "slim/slim": "^3"
+    }
+}
