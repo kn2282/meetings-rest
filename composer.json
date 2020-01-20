@@ -1,6 +1,9 @@
 {
     "name": "kniedzie/meetings-vue-slim",
     "require": {
-        "slim/slim": "^3"
+        "slim/slim": "^3",
+        "ext-json": "*",
+        "ext-sqlite3": "*"
+        
     }
 }
