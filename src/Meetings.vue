@@ -42,9 +42,9 @@
       }
     },
     mounted() {
- //     this.$http.get('participants').then(response => {
-  //      this.people = response.body;
-//      });
+      this.$http.get('participants').then(response => {
+        this.people = response.body;
+      });
     },
   };
 
